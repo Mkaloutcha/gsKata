@@ -1,1 +1,1 @@
-# gsKata
+# sgKata
